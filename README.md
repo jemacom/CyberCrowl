@@ -1,4 +1,3 @@
-==========================
 CyberCrowl Scan v.1.0
 ==========================
 
@@ -58,7 +57,6 @@ web site scan with external wordlist
   cybercrowl www.domain.com -w wordlist.txt
   ```
 
-=======
 Install
 =======
 
